@@ -15,10 +15,10 @@ The goals / steps of this project are the following:
 
 [image1]: ./chess.png "Undistorted"
 [image2]: ./undistort_output.png "Road Transformed"
-[image3]: ./binary.jpg "Binary Example"
-[image4]: ./straight_bird.jpg "Warp Example"
-[image5]: ./fit_lines.jpg "Fit Visual"
-[image6]: ./result.jpg "Output"
+[image3]: ./binary.png "Binary Example"
+[image4]: ./straight_bird.png "Warp Example"
+[image5]: ./fit_lines.png "Fit Visual"
+[image6]: ./result.png "Output"
 [video1]: ./project_video_result.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
